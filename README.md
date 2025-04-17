@@ -6,7 +6,7 @@ A sleek and responsive **Currency Converter** web app built with HTML, CSS, and 
 
 ##  Live Demo
 
-> *(Add your deployed link here, like GitHub Pages, Netlify, or Vercel)*
+> *(https://shubhigupta24.github.io/Currency-Converter/)*
 
 ---
 
